@@ -12,7 +12,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **a quiz app**
+ 🔭 I’m currently finding a job -.-
 
 
  
