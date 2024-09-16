@@ -11,8 +11,6 @@
 <div align="center">
 
  🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently finding a job -.-
 
 
  
