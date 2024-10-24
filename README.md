@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,express,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,git,github,express,firebase,mongodb,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=mui,mysql,html,css,sass,tailwind,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=mui,html,css,sass,tailwind" />
 </div>
   <br/><br/><br/>
 <hr/>
