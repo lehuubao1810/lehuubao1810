@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huu+Bao!;" />
 </h1>
 
-<h3 align="center">I'm a Software Engineer</h3>
+<h3 align="center">I'm a Fullstack Developer</h3>
 
 <br/>
 
@@ -33,8 +33,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mui,html,css,sass,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,git,github,express,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=solidity,python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,nestjs,git,github" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,redux,zustand" />
 </div>
   <br/><br/><br/>
 <hr/>
